@@ -1,0 +1,8 @@
+{
+  "name": "Jamil Ahmed Sagor - Cyber Portfolio",
+  "description": "A high-performance 3D portfolio for Jamil Ahmed Sagor, CSE student at BUBT, featuring a professional hacker aesthetic and AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
